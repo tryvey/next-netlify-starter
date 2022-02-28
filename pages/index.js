@@ -11,9 +11,10 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Under construction" />
-        <p className="Currently updating website content">
-          Get started by editing <code>pages/index.js</code>
+        <Header title=" under construction" />
+        <h1>jamietreyvaud.com</h1>
+        <p className="Updating">
+          Updating website content</code>
         </p>
       </main>
 
