@@ -11,7 +11,7 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Under Construction" />
+        <Header title="Still Under Construction" />
         <h1>jamietreyvaud.com</h1>
         <p className="Updating">
           <code>Updating website content</code>
