@@ -14,7 +14,7 @@ export default function Home() {
         <Header title="Still Under Construction" />
         <h1>jamietreyvaud.com</h1>
         <p className="Updating">
-          <code>Updating website content</code>
+          <code>Updating website content | 2024</code>
         </p>
       </main>
 
