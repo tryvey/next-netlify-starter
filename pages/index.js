@@ -15,7 +15,7 @@ export default function Home() {
         <h1>Managing Consultant | User Experience</h1>
         <h2>Friends of Figma - Melbourne | Visual Thinker and Product Designer</h2>
         <p className="Updating">
-          <code>Updating website content | 2024</code>
+          <code>Copyright | 2024</code>
         </p>
       </main>
 
