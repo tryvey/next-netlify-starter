@@ -11,7 +11,7 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Jamie Treyvaud Personal Website" />
+        <Header title="Jamie Treyvaud" />
         <h1>Managing Consultant | User Experience</h1>
         <h2>Friends of Figma - Melbourne | Visual Thinker and Product Designer</h2>
         <p className="Updating">
