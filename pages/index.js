@@ -6,8 +6,8 @@ export default function Home() {
   return (
     <div className="container">
       //<Head>
-        <title>jamietreyvaud.com</title>
-        <link rel="icon" href="/favicon.ico" />
+      // <title>jamietreyvaud.com</title>
+      //<link rel="icon" href="/favicon.ico" />
       //</Head>
 
       <head>
