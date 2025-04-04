@@ -16,7 +16,7 @@ export default function Home() {
             font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
             margin: 0;
             padding: 0;
-            background-color: #1d1d1f;
+            background-color: white;
             color: #f5f5f7;
             text-align: center;
           }
